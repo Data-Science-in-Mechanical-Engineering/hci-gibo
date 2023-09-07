@@ -51,3 +51,12 @@ Evaluation of the synthetic experiments:
 ```
 python evaluations/test_performance.py
 ```
+
+## Robot Experiment
+### Run
+First launch module `external_acceleration_controller` in [franka_pendulum](https://git.rwth-aachen.de/dsme-projects/franka_pendulum).
+
+Afterwards you can run
+```
+python run_robot_experiment.py
+```
