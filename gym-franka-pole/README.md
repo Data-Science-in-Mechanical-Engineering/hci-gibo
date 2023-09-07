@@ -1,0 +1,3 @@
+- install the package with `pip install -e gym-franka-pole`
+- `import gym-franka-pole` for your python code
+- create environment with `gym.make('franka_pole-v0')`
