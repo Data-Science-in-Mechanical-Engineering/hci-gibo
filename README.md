@@ -16,7 +16,7 @@ We propose a general and data-efficient zero-order local search method based on 
 # Installation
 To run robot experiments, follow the instruction under [franka_pendulum](https://git.rwth-aachen.de/dsme-projects/franka_pendulum) and [gym-franka-pole](gym-franka-pole/).
 
-Into an environment with python 3.8.5 you can install all needed packages with
+Into an environment with python 3.7.3 you can install all needed packages with
 ```
 pip install -r requirements.txt
 ```
