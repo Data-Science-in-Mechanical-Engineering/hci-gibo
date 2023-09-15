@@ -1,4 +1,4 @@
-# High-Confidence Improvement Bayesion Optimization 
+# High-Confidence Improvement Bayesian Optimization 
 This repository contains the code to reproduce the results from the paper **Towards Data-Efficient Robot Learning
 with the Help of Simulators**.
 
