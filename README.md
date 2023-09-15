@@ -14,7 +14,7 @@ We propose a general and data-efficient zero-order local search method based on 
 
 
 # Installation
-To run robot experiments, follow the instruction under [franka_pendulum](https://github.com/data-Science-in-Mechanical-Engineering/franka_pendulum) and [gym-franka-pole](gym-franka-pole/).
+To run robot experiments, follow the instruction under [franka_pendulum](https://github.com/Data-Science-in-Mechanical-Engineering/franka_pendulum) and [gym-franka-pole](gym-franka-pole/).
 
 Into an environment with python 3.7.3 you can install all needed packages with
 ```
@@ -54,7 +54,7 @@ python evaluations/test_performance.py
 
 ## Robot Experiment
 ### Run
-First launch module `external_acceleration_controller` in [franka_pendulum](https://github.com/data-Science-in-Mechanical-Engineering/franka_pendulum).
+First launch module `external_acceleration_controller` in [franka_pendulum](https://github.com/Data-Science-in-Mechanical-Engineering/franka_pendulum).
 
 Afterwards you can run
 ```
