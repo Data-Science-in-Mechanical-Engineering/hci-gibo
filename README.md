@@ -11,17 +11,18 @@ How can robots learn and adapt to new tasks and situations with little data? Sys
 
 ## Cite
 
-If you find our code or paper useful, please consider citing the current preprint
+If you find our code or paper useful, please consider citing the [T-RO paper](https://ieeexplore.ieee.org/document/10874195). There is also an [arXiv version](https://arxiv.org/abs/2411.14246).
 
 ```bibtex
-@misc{he2024simulation,
+@article{he2024simulation,
   title={Simulation-Aided Policy Tuning for Black-Box Robot Learning}, 
   author={Shiming He and Alexander {von Rohr} and Dominik Baumann and Ji Xiang and Sebastian Trimpe},
-  year={2024},
-  eprint={2411.14246},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO},
-  url={https://arxiv.org/abs/2411.14246}, 
+  journal={IEEE Transactions on Robotics}, 
+  year={2025},
+  volume={41},
+  number={},
+  pages={2533-2548},
+  doi={10.1109/TRO.2025.3539192}
 }
 ```
 
